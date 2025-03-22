@@ -5,7 +5,7 @@ This project contains a hand-written Transformer implementation for training on 
 ## Directory Structure
 
 ```
-/sgl-workspace/Transformer/
+/($workspace)/Transformer/
 ├── data/               # Data directory
 │   ├── raw/            # Raw datasets
 │   └── processed/      # Preprocessed datasets
